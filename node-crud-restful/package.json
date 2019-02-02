@@ -1,0 +1,21 @@
+{
+  "name": "node-api-crud",
+  "version": "1.0.0",
+  "description": "API Crud NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/./mocha --report spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edsonlourenco/node-crud-restfull"
+  },
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.4",
+    "mongoose": "5.4.7",
+    "request": "2.88.0"
+  },
+  "author": "Edson Lourenço",
+  "license": "MIT"
+}
